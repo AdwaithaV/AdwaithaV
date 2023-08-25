@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdwaithaV
-- 👀 I’m interested in .. cybersecurity music rubicks cube
-- 🌱 I’m currently learning ...c language and python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in .. cybersecurity coding and  rubicks cube
+- 🌱 I’m currently learning ...c language and python and basic algorithms
+-
 - 📫 How to reach me ... adwaithav063@gmail.com
 
 <!---
