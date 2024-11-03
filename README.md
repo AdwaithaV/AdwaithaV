@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdwaithaV
-- 👀 I’m interested in .. cybersecurity coding and  rubicks cube
-- 🌱 I’m currently learning ...c language and python and basic algorithms
+- 👀 I’m interested in .. Robotics and Quantum Computing
+- 🌱 I’m currently learning ...ROS and Quantum Algorithms 
 -
 - 📫 How to reach me ... adwaithav063@gmail.com
 
