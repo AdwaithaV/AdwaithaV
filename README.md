@@ -18,10 +18,10 @@ Hi! I'm **Adwaitha V**, a passionate undergraduate student in **Electronics and 
 ## 🧪 Quantum Frameworks
 
 **Qiskit**  
-![Qiskit](https://raw.githubusercontent.com/qiskit-community/community.qiskit.org/main/static/images/logos/qiskit-logo.png)
+<img src="https://raw.githubusercontent.com/qiskit-community/community.qiskit.org/main/static/images/logos/qiskit-logo.png" alt="Qiskit Logo" width="250">
 
 **Cirq**  
-![Cirq](https://raw.githubusercontent.com/quantumlib/Cirq/master/docs/images/Cirq_logo.png)
+<img src="https://raw.githubusercontent.com/quantumlib/Cirq/master/docs/images/Cirq_logo.png" alt="Cirq Logo" width="250">
 
 
 
