@@ -14,42 +14,36 @@ Hi! I'm **Adwaitha V**, a passionate undergraduate student in **Electronics and 
 
 ## 🛠️ Tech Stack (With Big Logos)
 
-
-## 🧪 Quantum Frameworks
+### 🧪 Quantum Frameworks
 
 **Qiskit**  
-<img src="https://raw.githubusercontent.com/qiskit-community/community.qiskit.org/main/static/images/logos/qiskit-logo.png" alt="Qiskit Logo" width="250">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Qiskit_Logo.svg" alt="Qiskit Logo" width="250">
 
 **Cirq**  
-<img src="https://raw.githubusercontent.com/quantumlib/Cirq/master/docs/images/Cirq_logo.png" alt="Cirq Logo" width="250">
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cirq_Logo_2020.svg" alt="Cirq Logo" width="250">
 
 ---
 
 ### 💻 Programming Languages
 
-<p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="120" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="100" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="100" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="100" />
-</p>
+**Python**  
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="180" />
+
+**C**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="100" />
+
+**C++**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="100" />
+
+**MATLAB**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="120" />
 
 ---
 
 ### 🔧 Hardware & Robotics Platforms
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="100" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="100" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="100" />
-</p>
+**Arduino**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="120" />
 
 ---
 
