@@ -4,88 +4,79 @@ Hi! I'm **Adwaitha V**, a passionate undergraduate student in **Electronics and 
 
 ---
 
-## 🧠 Current Focus
+##  Current Focus
 
-- 🔬 Researching **Quantum Optimization Algorithms**
-- 🧪 Benchmarking **Quantum Computing Frameworks** (Qiskit, Cirq)
-- 🤖 Motion Planning & Autonomous Control Systems (Hexapod Robotics)
-
----
-
-## 🛠️ Tech Stack (With Big Logos)
-
-### 🧪 Quantum Frameworks
-
-**Qiskit**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Qiskit_Logo.svg" alt="Qiskit Logo" width="250">
-
-**Cirq**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cirq_Logo_2020.svg" alt="Cirq Logo" width="250">
+-  Researching **Quantum Optimization Algorithms**
+-  Benchmarking **Quantum Computing Frameworks** (`Qiskit`, `Cirq`)
+-  Motion Planning & Autonomous Control Systems (Hexapod Robotics)
 
 ---
 
-### 💻 Programming Languages
+##  Tech Stack
 
-**Python**  
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="180" />
+###  Quantum Frameworks
 
-**C**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="100" />
-
-**C++**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="100" />
-
-**MATLAB**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="120" />
+-  **Qiskit**
+-  **Cirq**
 
 ---
 
-### 🔧 Hardware & Robotics Platforms
+###  Programming Languages
 
-**Arduino**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="120" />
+-  **Python**
+-  **C**
+-  **C++**
 
 ---
 
-## 🧩 Projects & Highlights
+###  Hardware & Embedded Platforms
 
-- **🔷 Hexapod Robot (Proof of Concept)** – *ROBOFEST GUJARAT 4.0*  
+-  **Arduino UNO/Nano/Mega**
+-  **Ultrasonic + IR Sensors**
+-  **Servo and DC Motors**
+-  **PS2 Controller Interface**
+
+---
+
+##  Projects & Highlights
+
+- ** Hexapod Robot (Proof of Concept)** – *ROBOFEST GUJARAT 4.0*  
   Designed motion planning algorithms and sensor integration for autonomous stair-climbing hexapod.
 
-- **🔐 IoT Door Unlocking System**  
+- ** IoT Door Unlocking System**  
   Arduino + RFID + Servo-based access system for contactless entry.
 
-- **🏠 Mini Home Automation**  
-  Automated AC, fan, and lights using sensors and Raspberry Pi based on ambient data.
+- ** Mini Home Automation**  
+  Automated AC, fan, and lights using sensors and Arduino based on ambient data.
 
-- **🧠 Global Spice Intelligence – AI Assistant**  
+- ** Global Spice Intelligence – AI Assistant**  
   [🔗 GitHub](https://github.com/giri2021/Spice-intelligence-AI-Assistant)  
   Built semantic understanding and image analysis modules with OCR & LLMs.
 
 ---
 
-## 🏆 Hackathons & Recognition
+##  Hackathons & Recognition
 
-- **Road Safety Hackathon** – Top 6% (from 4,000+ applicants)  
-- **Blue Qubit Hackathon** – Ranked 88th / 1600+  
-- **ROBOFEST GUJARAT 4.0** – Hexapod Robotics POC Presentation
-
----
-
-## 🎓 Certifications
-
-- 🎓 **Qiskit Global Summer School – Quantum Computing**
-- 🎓 **Quantum Workshop by QWorld** (University of Latvia)
-- 🎓 **Quantum Machine Learning** – ingenii
-- 🤖 **AI Research & Innovation Camp (ARISE)**
-- 🧪 **RISC Summer Camp – Robotics & Quantum Tech**
+-  **Road Safety Hackathon** – Top 6% (from 4,000+ applicants)  
+-  **Blue Qubit Hackathon** – Ranked 88th / 1600+  
+-  **ROBOFEST GUJARAT 4.0** – Hexapod Robotics POC Presentation
 
 ---
 
-## 🌍 Languages
+##  Certifications
 
-- **Malayalam** – Native  
-- **English** – Upper Intermediate (B2)
+-  **Qiskit Global Summer School – Quantum Computing**
+-  **Quantum Workshop by QWorld** (University of Latvia)
+-  **Quantum Machine Learning** – ingenii
+-  **AI Research & Innovation Camp (ARISE)**
+-  **RISC Summer Camp – Robotics & Quantum Tech**
+
+---
+
+##  Languages
+
+- 🇮🇳 **Malayalam** – Native  
+-  **English** – Upper Intermediate (B2)
 
 ---
 
@@ -95,8 +86,10 @@ I’m always open to meaningful collaborations and research opportunities in **Q
 
 📫 **Email**: [adwaithav063@gmail.com](mailto:adwaithav063@gmail.com)  
 🔗 **GitHub**: [AdwaithaV](https://github.com/AdwaithaV)  
-🌐 **Location**: Thiruvananthapuram, Kerala, India  
+📍 **Location**: Thiruvananthapuram, Kerala, India  
 
 ---
 
 > *“Driven by curiosity. Powered by code. Shaping tomorrow with technology.”*
+
+
