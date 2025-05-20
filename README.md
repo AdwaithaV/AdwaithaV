@@ -1,36 +1,34 @@
-**Welcome to My GitHub Repository**
+# 👋 Welcome to My GitHub
 
+Hi there! I'm **Adwaitha V**, an enthusiastic undergraduate student pursuing **Electronics and Computer Engineering** at **Amrita Vishwa Vidyapeetham**. My interests lie at the intersection of **Robotics**, **Quantum Computing**, and **Artificial Intelligence**, where I explore innovative technologies to solve real-world problems.
 
-Hello! 👋 I'm ***ADWAITHA V***, a passionate Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham, focusing on Robotics, Quantum Computing, and Artificial Intelligence/Machine Learning. This repository serves as a hub for my projects, collaborations, and explorations in engineering and research.
+---
 
-📈 **Achievements**
+## 🚀 Highlights & Achievements
 
+- 🕷️ **Hexapod Robot POC** – Showcased at **ROBOFEST-GUJARAT 4.0**, demonstrating autonomous stair-climbing and gait logic.
+- 🔐 **Cybersecurity Intern @ 1stop.ai** – Built an "Information Gathering Tool" for ethical hacking.
+- 🧠 **Quantum Computing Certifications** – Completed:
+  - QBronze by QWorld
+  - Qiskit Global Summer School 2023 by IBM
 
-***Hexapod POC Presentation***: ROBOFEST-GUJARAT 4.0.
+---
 
-***Internship***: Developed an "Information Gathering Tool" at 1stop.ai.
+## 🔬 Research & Learning Interests
 
-***Quantum Computing Certifications***: QBronze, Qiskit Global Summer School 2023.
+- 🤖 **Robotics**: Autonomous control, inverse kinematics, sensor integration, and motion planning.
+- ⚛️ **Quantum Computing**: Quantum algorithms, error correction, and computational complexity.
+- 🧠 **Artificial Intelligence**: Deep learning in robotics, computer vision, and natural language processing.
 
-**📚 Learning and Research Interests**
+---
 
+## 🤝 Let’s Connect!
 
-***Robotics***: Control systems, motion planning, and autonomy.
+I’m always open to **collaborations**, **research projects**, or a chat about emerging technologies. Feel free to connect:
 
-***Quantum Computing***: Algorithms, complexity theory, and error correction.
+- 📧 Email: [adwaithav063@gmail.com](mailto:adwaithav063@gmail.com)
+- 💼 LinkedIn: [Adwaitha V on LinkedIn](https://www.linkedin.com/in/adwaitha-v-4b1452289/)
 
-***Artificial Intelligence***: Deep learning applications in robotics and NLP.
+---
 
-**🤝 Connect with Me**
-
-
-I am always excited about collaborative opportunities and research discussions. Feel free to reach out:
-
-Email: adwaithav063@gmail.com 
-
-LinkedIn: https://www.linkedin.com/in/adwaitha-v-4b1452289/
-
-<!---
-AdwaithaV/AdwaithaV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for visiting my GitHub! 🚀 Let’s build something amazing together!
