@@ -1,70 +1,87 @@
 # 👩‍💻 About Me
 
-Hi! I'm **Adwaitha V**, a driven and curious undergraduate student in **Electronics and Computer Engineering** at **Amrita Vishwa Vidyapeetham** (GPA: 9.1). I'm passionate about **Robotics**, **Quantum Computing**, and **Artificial Intelligence**, with a strong foundation in embedded systems, algorithm design, and quantum technologies.
+Hi! I'm **Adwaitha V**, a passionate undergraduate student in **Electronics and Computer Engineering** at **Amrita Vishwa Vidyapeetham** (GPA: 9.1). I specialize in **Robotics**, **Quantum Computing**, and **AI**, blending strong programming skills with real-world applications in control systems, quantum algorithms, and embedded development.
 
 ---
 
-## 🎓 Academic & Professional Snapshot
+## 🧠 Current Focus
 
-- 📍 **Amrita Vishwa Vidyapeetham**, India  
-  - BTech in Electronics and Computer Engineering (Expected 2027)  
-  - Top 10% of class | Scholarship Awardee  
-  - Member & Mentor, **Robotics Club** | **NSS Volunteer**
-
-- 🧠 Currently Researching:  
-  - **Quantum Optimization Algorithms**  
-  - **Benchmarking Quantum Computing Frameworks**
-
-- 💼 **Intern @ 1stop.ai**  
-  - Developed an Information Gathering Tool using Python  
-  - Gained hands-on experience in cybersecurity and ethical hacking fundamentals
+- 🔬 Researching **Quantum Optimization Algorithms**
+- 🧪 Benchmarking **Quantum Computing Frameworks** (Qiskit, Cirq)
+- 🤖 Motion Planning & Autonomous Control Systems (Hexapod Robotics)
 
 ---
 
-## 🔧 Technical Skills
+## 🛠️ Tech Stack (With Big Logos)
 
-**Languages & Tools**  
-`Python` • `C` • `C++` • `Qiskit` • `Cirq` • `MATLAB` • `Arduino` • `Raspberry Pi` • `ROS`
+### 🧪 Quantum Frameworks
 
-**Domains**  
-`Robotics` • `Quantum Computing` • `Artificial Intelligence` • `Generative AI`•`Machine Learning`•`Quantum Machine Learning`
-
-**Core Skills**  
-Problem Solving • Motion Planning • Control Systems • Quantum Information Science • Interpersonal Communication
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Qiskit-Logo.svg" alt="Qiskit" width="120" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/quantumlib/Cirq/master/docs/images/Cirq_logo.png" alt="Cirq" width="120" />
+</p>
 
 ---
 
-## 🛠️ Projects & Highlights
+### 💻 Programming Languages
 
-- **🔷 Hexapod Robot (POC)** – [ROBOFEST GUJARAT 4.0]  
-  Algorithm design and motion planning for stair-climbing hexapod robot.
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="120" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="100" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="100" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="100" />
+</p>
 
-- **🔐 IoT-Based Door Unlocking System**  
-  Contactless access control using Arduino, RFID, and servo systems.
+---
 
-- **🌡️ Mini Home Automation System**  
-  Smart control using Raspberry Pi for temperature and light-based automation.
+### 🔧 Hardware & Robotics Platforms
 
-- **🧠 Global Spice Intelligence (AI Assistant)** – [GitHub Repo](https://github.com/giri2021/Spice-intelligence-AI-Assistant)  
-  Built modules for document understanding and semantic image analysis using OCR and LLMs.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="100" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="100" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="100" />
+</p>
+
+---
+
+## 🧩 Projects & Highlights
+
+- **🔷 Hexapod Robot (Proof of Concept)** – *ROBOFEST GUJARAT 4.0*  
+  Designed motion planning algorithms and sensor integration for autonomous stair-climbing hexapod.
+
+- **🔐 IoT Door Unlocking System**  
+  Arduino + RFID + Servo-based access system for contactless entry.
+
+- **🏠 Mini Home Automation**  
+  Automated AC, fan, and lights using sensors and Raspberry Pi based on ambient data.
+
+- **🧠 Global Spice Intelligence – AI Assistant**  
+  [🔗 GitHub](https://github.com/giri2021/Spice-intelligence-AI-Assistant)  
+  Built semantic understanding and image analysis modules with OCR & LLMs.
 
 ---
 
 ## 🏆 Hackathons & Recognition
 
-- **Top 6%** – *Road Safety Hackathon* (4,000+ applicants)  
-- **88th Rank** – *Blue Qubit Quantum Hackathon* (1,600+ global participants)  
-- **Capstone Contributor** – *Spice Intelligence AI Project*  
+- **Road Safety Hackathon** – Top 6% (from 4,000+ applicants)  
+- **Blue Qubit Hackathon** – Ranked 88th / 1600+  
+- **ROBOFEST GUJARAT 4.0** – Hexapod Robotics POC Presentation
 
 ---
 
-## 📜 Certifications & Workshops
+## 🎓 Certifications
 
-- Qiskit Global Summer School – Quantum Computing (IBM)
-- Quantum Computing Workshop – QWorld (University of Latvia)
-- Quantum Machine Learning – ingenii
-- Research and Innovation Summer Camp (RISC)
-- AI Research and Innovation Camp (ARISE)
+- 🎓 **Qiskit Global Summer School – Quantum Computing**
+- 🎓 **Quantum Workshop by QWorld** (University of Latvia)
+- 🎓 **Quantum Machine Learning** – ingenii
+- 🤖 **AI Research & Innovation Camp (ARISE)**
+- 🧪 **RISC Summer Camp – Robotics & Quantum Tech**
 
 ---
 
@@ -75,14 +92,14 @@ Problem Solving • Motion Planning • Control Systems • Quantum Information 
 
 ---
 
-## 🤝 Let’s Connect
+## 🙌 Let's Connect!
 
-I’m actively looking for opportunities to **collaborate**, **research**, and **contribute** to impactful projects in robotics and quantum computing. Let’s talk!
+I’m always open to meaningful collaborations and research opportunities in **Quantum Computing**, **AI**, and **Robotics**.
 
-- 📧 Email: [adwaithav063@gmail.com](mailto:adwaithav063@gmail.com)  
-- 💼 LinkedIn: [Adwaitha V](https://www.linkedin.com/in/adwaitha-v-4b1452289/)  
-- 🌐 GitHub: [AdwaithaV](https://github.com/AdwaithaV)  
+📫 **Email**: [adwaithav063@gmail.com](mailto:adwaithav063@gmail.com)  
+🔗 **GitHub**: [AdwaithaV](https://github.com/AdwaithaV)  
+🌐 **Location**: Thiruvananthapuram, Kerala, India  
 
 ---
 
-> “Driven by curiosity. Powered by code. Shaping tomorrow with technology.”
+> *“Driven by curiosity. Powered by code. Shaping tomorrow with technology.”*
