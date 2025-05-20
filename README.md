@@ -14,13 +14,15 @@ Hi! I'm **Adwaitha V**, a passionate undergraduate student in **Electronics and 
 
 ## 🛠️ Tech Stack (With Big Logos)
 
+
 ### 🧪 Quantum Frameworks
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Qiskit-Logo.svg" alt="Qiskit" width="120" />
+  <img src="https://raw.githubusercontent.com/qiskit-community/community.qiskit.org/main/static/images/logos/qiskit-logo.png" alt="Qiskit" width="140"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/quantumlib/Cirq/master/docs/images/Cirq_logo.png" alt="Cirq" width="120" />
+  <img src="https://raw.githubusercontent.com/quantumlib/Cirq/master/docs/images/Cirq_logo.png" alt="Cirq" width="140"/>
 </p>
+
 
 ---
 
