@@ -40,16 +40,16 @@ Hi! I'm **Adwaitha V**, a passionate undergraduate student in **Electronics and 
 
 ##  Projects & Highlights
 
-- ** Hexapod Robot (Proof of Concept)** – *ROBOFEST GUJARAT 4.0*  
+- **Hexapod Robot (Proof of Concept)** – *ROBOFEST GUJARAT 4.0*  
   Designed motion planning algorithms and sensor integration for autonomous stair-climbing hexapod.
 
-- ** IoT Door Unlocking System**  
+- **IoT Door Unlocking System**  
   Arduino + RFID + Servo-based access system for contactless entry.
 
-- ** Mini Home Automation**  
+- **Mini Home Automation**  
   Automated AC, fan, and lights using sensors and Arduino based on ambient data.
 
-- ** Global Spice Intelligence – AI Assistant**  
+- **Global Spice Intelligence – AI Assistant**  
   [🔗 GitHub](https://github.com/giri2021/Spice-intelligence-AI-Assistant)  
   Built semantic understanding and image analysis modules with OCR & LLMs.
 
