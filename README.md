@@ -1,6 +1,6 @@
 # 👩‍💻 About Me
 
-Hi! I'm **Adwaitha V**, a passionate undergraduate student in **Electronics and Computer Engineering** at **Amrita Vishwa Vidyapeetham** (GPA: 9.1). I specialize in **Robotics**, **Quantum Computing**, and **AI**, blending strong programming skills with real-world applications in control systems, quantum algorithms, and embedded development.
+Hi! I'm **Adwaitha V**, a passionate undergraduate student in **Electronics and Computer Engineering** at **Amrita Vishwa Vidyapeetham** (GPA: 8.7). I specialize in **Robotics**, **Quantum Computing**, and **AI**, blending strong programming skills with real-world applications in control systems, quantum algorithms, and embedded development.
 
 ---
 
