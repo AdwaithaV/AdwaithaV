@@ -2,7 +2,7 @@
 
 <p align="center">
 Final Year Electronics & Computer Engineering Student <br>
-⚛️ Quantum Computing • 🤖 Robotics • 🧠 AI
+Quantum Computing •  Robotics • AI
 </p>
 
 <p align="center">
@@ -13,18 +13,18 @@ Final Year Electronics & Computer Engineering Student <br>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🎓 Final Year ECE Student at Amrita Vishwa Vidyapeetham (CGPA: 8.79)
-* ⚛️ Researching Quantum Computing & Quantum ML
-* 🤖 Interested in Robotics, ROS2, and Autonomous Systems
-* 🧠 Building AI + Embedded + Quantum projects
-* 🌱 Exploring Qiskit, Cirq, PennyLane, FastAPI, and OpenCV
-* 🔬 2026 QIntern / PARIMANA Intern – QmetTech, IIT Bombay
+*  Final Year ECE Student at Amrita Vishwa Vidyapeetham (CGPA: 8.79)
+*  Researching Quantum Computing & Quantum ML
+*  Interested in Robotics, ROS2, and Autonomous Systems
+*  Building AI + Embedded + Quantum projects
+*  Exploring Qiskit, Cirq, PennyLane, FastAPI, and OpenCV
+*  2026 QIntern / PARIMANA Intern – QmetTech, IIT Bombay
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode" />
@@ -37,7 +37,7 @@ Final Year Electronics & Computer Engineering Student <br>
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdwaithaV&show_icons=true&theme=tokyonight" />
@@ -49,27 +49,27 @@ Final Year Electronics & Computer Engineering Student <br>
 
 ---
 
-## 🧩 Featured Projects
+##  Featured Projects
 
-* 🤖 Hexapod Robot – Autonomous stair-climbing robot
-* ⚛️ QBench – Quantum framework benchmarking tool
-* 🧠 RevuLink – NLP-powered sentiment analysis extension
-* 🚗 Intelligent Ground Vehicle using ROS2
-* 📄 Global Spice Intelligence – OCR + LLM pipeline
-
----
-
-## 🏆 Achievements
-
-* 🥇 IEEE ICRM Robotics Competition Winner
-* 🌍 Rank 88 – BlueQubit Quantum Hackathon
-* ⚛️ Qiskit Advocate (Tier 0)
-* 🏅 Top 6% – Road Safety Hackathon
-* 🌐 Global Top 5 – Quantum Village x DEFCON Hackathon
+*  Hexapod Robot – Autonomous stair-climbing robot
+*  QBench – Quantum framework benchmarking tool
+*  RevuLink – NLP-powered sentiment analysis extension
+*  Intelligent Ground Vehicle using ROS2
+*  Global Spice Intelligence – OCR + LLM pipeline
 
 ---
 
-## 🐍 Contribution Graph
+##  Achievements
+
+*  IEEE ICRM Robotics Competition Winner
+*  Rank 88 – BlueQubit Quantum Hackathon
+*  Qiskit Advocate (Tier 0)
+*  Top 6% – Road Safety Hackathon
+*  Global Top 5 – Quantum Village x DEFCON Hackathon
+
+---
+
+##  Contribution Graph
 
 <p align="center">
   <picture>
@@ -81,8 +81,8 @@ Final Year Electronics & Computer Engineering Student <br>
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-* 📧 [adwaithav063@gmail.com](mailto:adwaithav063@gmail.com)
-* 🔗 https://github.com/AdwaithaV
-* 💼 https://linkedin.com/in/adwaitha-v
+*  [adwaithav063@gmail.com](mailto:adwaithav063@gmail.com)
+*  https://github.com/AdwaithaV
+*  https://linkedin.com/in/adwaitha-v
