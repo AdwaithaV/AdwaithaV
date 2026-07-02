@@ -39,9 +39,8 @@ Quantum Computing •  Robotics • AI
 
 ##  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdwaithaV&show_icons=true&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/AdwaithaV/AdwaithaV/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
 ---
 
 ##  Featured Projects
